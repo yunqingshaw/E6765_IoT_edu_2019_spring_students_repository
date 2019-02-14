@@ -39,7 +39,7 @@ client_kinesis = boto.connect_kinesis(
 	aws_secret_access_key=assumedRoleObject.credentials.secret_key,
 	security_token=assumedRoleObject.credentials.session_token)
 
-from boto.dynamodb2.table import table
+from boto.dynamodb2.table import Table
 from boto.dynamodb2.fields import HashKey
 
 ######################
