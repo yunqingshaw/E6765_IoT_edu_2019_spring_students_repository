@@ -10,7 +10,8 @@ class MLModule:
 			reader = csv.reader(csvfile, delimiter = ',')
 			for row in reader:
 				data.append(row)
-
+		return data
+		
 	def regression(self, data, target):
 		model = None
 		##########################################
