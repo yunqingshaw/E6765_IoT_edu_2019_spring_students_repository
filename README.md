@@ -10,4 +10,6 @@
 
 * The landing page is full of files, and the README is at the bottom - that is not good. Need to move files to some subdirectory, and have README on top (https://github.com/zk2172-columbia/E6765_IoT_edu_2019_spring_students_repository)
 
+* Is there a way to track changes for each individual wiki page
+
 
