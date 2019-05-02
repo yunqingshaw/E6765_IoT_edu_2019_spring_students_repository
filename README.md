@@ -6,6 +6,6 @@
 
 * Wiced Sense - potential details instructions on cypress development threads - investigate: https://community.cypress.com/thread/45780
 
-* The sidebars are not good - need to be fixed - that may require changing the names of wiki pages - 
+* The sidebars are not good - need to be fixed - that may require changing the names of wiki pages - https://github.com/zk2172-columbia/E6765_IoT_edu_2019_spring_students_repository/wiki and the same for 2018 summer
 
 
