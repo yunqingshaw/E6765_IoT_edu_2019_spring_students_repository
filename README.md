@@ -1,4 +1,4 @@
-# E6765_IoT_edu_2018Summer_repository
+# E6765_IoT_edu_2019_spring_repository    (from E6765_IoT_edu_2018Summer_repository)
 
 ## TODO 
 
