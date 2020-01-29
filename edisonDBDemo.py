@@ -26,7 +26,7 @@ class dynamoMethods:
             print "New Table Created"
         except Exception as e:
             #2.table already exists, so get the table
-            self.table_dynamo = #HINT: Remember to use "connection=client.dynamo"
+            self.table_dynamo = #HINT: Remember to use "connection=client_dynamo"
             print "Table Already Exists"
         ####################################################################
 
